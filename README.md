@@ -21,9 +21,11 @@ Actualmente formo parte de **Auria Technologies**, el equipo de la UVigo para la
 - **Foodie:** SaaS Multitenant para el sector restauración con gestión de pedidos e inventario en tiempo real.
 - **MiCita:** CRM y plataforma de gestión de citas "offline-first" con sincronización inteligente.
 - **Miga:** App de gestión para repostería con integración de **IA (Gemini API)** para OCR y suscripciones premium con **RevenueCat**.
+- **MeigaSearch (HackUDC 2026):** Motor de búsqueda inteligente para documentos corporativos utilizando modelos de lenguaje (IA).
 
 ---
 
 ### 📫 Contacto
 - 💼 [LinkedIn](https://linkedin.com/in/vincenzo-gagliano-3928a5363)
 - 📧 [Email](mailto:inico2004@email.com)
+- 🏆 [Devpost](https://devpost.com/Gavince1803)
