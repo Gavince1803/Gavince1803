@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Vincenzo Gagliano 👋
 
-<!--
-**Gavince1803/Gavince1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Estudiante de Ingeniería Informática @ UVigo
+Desarrollador enfocado en construir software escalable y con un fuerte interés en la cultura **DevOps**, la automatización de infraestructura y el despliegue continuo.
 
-Here are some ideas to get you started:
+Actualmente formo parte de **Auria Technologies**, el equipo de la UVigo para la competición **Formula Student UK (FSUK)**, donde me encargo de la optimización del middleware y la orquestación de entornos con Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+- **Lenguajes:** TypeScript, Python, Java, C++, Dart.
+- **Frontend & Mobile:** React Native (Expo), React, Next.js.
+- **Backend & DevOps:** Supabase (PostgreSQL), Docker, AWS, NATS.
+- **Intereses actuales:** CI/CD Pipelines, Kubernetes y Cloud Native.
+
+---
+
+### 📁 Proyectos Destacados
+
+- **Foodie:** SaaS Multitenant para el sector restauración con gestión de pedidos e inventario en tiempo real.
+- **MiCita:** CRM y plataforma de gestión de citas "offline-first" con sincronización inteligente.
+- **FSUK-AI Stack:** Optimización de latencia en la comunicación entre procesos para el monoplaza autónomo de competición.
+
+---
+
+### 📫 Contacto
+- 💼 [LinkedIn](https://linkedin.com/in/vincenzo-gagliano-3928a5363)
+- 📧 [Email](mailto:inico2004@email.com)
