@@ -20,7 +20,7 @@ Actualmente formo parte de **Auria Technologies**, el equipo de la UVigo para la
 
 - **Foodie:** SaaS Multitenant para el sector restauración con gestión de pedidos e inventario en tiempo real.
 - **MiCita:** CRM y plataforma de gestión de citas "offline-first" con sincronización inteligente.
-- **FSUK-AI Stack:** Optimización de latencia en la comunicación entre procesos para el monoplaza autónomo de competición.
+- **Miga:** App de gestión para repostería con integración de **IA (Gemini API)** para OCR y suscripciones premium con **RevenueCat**.
 
 ---
 
