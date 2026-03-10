@@ -3,7 +3,7 @@
 ### 🚀 Software Engineer | Estudiante de Ingeniería Informática @ UVigo
 Desarrollador enfocado en construir software escalable y con un fuerte interés en la cultura **DevOps**, la automatización de infraestructura y el despliegue continuo.
 
-Actualmente formo parte de **Auria Technologies**, el equipo de la UVigo para la competición **Formula Student UK (FSUK)**, donde me encargo de la optimización del middleware y la orquestación de entornos con Docker.
+Actualmente formo parte de **Auria Technologies**, el equipo de la UVigo para la competición **Formula Student UK (FSUK)**.
 
 ---
 
