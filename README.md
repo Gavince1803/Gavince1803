@@ -15,9 +15,10 @@ En producción con usuarios de pago en más de 9 países (suscripciones con Reve
 Usa Gemini para convertir fotos de recetas escritas a mano en datos estructurados.
 `React Native` `Supabase` `Gemini API`
 
-**[ConfiPago](link)** — Frena las estafas de pagos falsos a comercios que cobran por Zelle.
-Verifica SPF/DKIM en las notificaciones del banco, extrae los datos de la transacción
-con un LLM y avisa a los cajeros por Telegram. En pruebas en una tienda real.
+**[ConfiPago](https://autozelle-production.up.railway.app/)** — Frena las estafas de pagos falsos a comercios que cobran por Zelle.
+Verifica SPF/DKIM/DMARC en las notificaciones del banco, extrae los datos de la transacción
+con un LLM y contrasta el monto extraído con el correo original antes de aprobar.
+Avisa a los cajeros por Telegram. En pruebas en una tienda real.
 `Python` `FastAPI` `Gemini API`
 
 **[MeigaSearch](link)** — HackUDC 2026, proyecto en equipo. Búsqueda semántica sobre
