@@ -1,27 +1,37 @@
-# ¡Hola! Soy Vincenzo Gagliano 👋
+# Hola, soy Vincenzo 👋
 
-### 🚀 Software Engineer | Estudiante de Ingeniería Informática @ UVigo
-Desarrollador enfocado en construir software escalable y con un fuerte interés en la cultura **DevOps**, la automatización de infraestructura y el despliegue continuo.
+Construyo productos con LLMs que usa y paga gente real.
+Estudiante de Ingeniería Informática @ Universidad de Vigo (promoción 2027), en España.
 
-Actualmente formo parte de **Auria Technologies**, el equipo de la UVigo para la competición **Formula Student UK (FSUK)**.
+Me centro en la parte poco vistosa de la ingeniería de IA: llevar funcionalidades
+con LLMs a producción y hacerlas fiables. Eso incluye extracción estructurada,
+búsqueda semántica, alternativas deterministas y tratar la entrada del modelo
+como no confiable.
 
----
+## Proyectos
 
-### 🛠️ Mi Stack Tecnológico
+**[Miga](link)** — App de gestión para reposteros y pastelerías en LATAM.
+En producción con usuarios de pago en más de 9 países (suscripciones con RevenueCat).
+Usa Gemini para convertir fotos de recetas escritas a mano en datos estructurados.
+`React Native` `Supabase` `Gemini API`
 
-- **Lenguajes:** TypeScript, Python, Java, C++, Dart.
-- **Frontend & Mobile:** React Native (Expo), React, Next.js.
-- **Backend & DevOps:** Supabase (PostgreSQL), Docker, AWS, NATS.
-- **Intereses actuales:** CI/CD Pipelines, Kubernetes y Cloud Native.
+**[ConfiPago](link)** — Frena las estafas de pagos falsos a comercios que cobran por Zelle.
+Verifica SPF/DKIM en las notificaciones del banco, extrae los datos de la transacción
+con un LLM y avisa a los cajeros por Telegram. En pruebas en una tienda real.
+`Python` `FastAPI` `Gemini API`
 
----
+**[MeigaSearch](link)** — HackUDC 2026, proyecto en equipo. Búsqueda semántica sobre
+documentos corporativos dispersos (PDF, Word, PPTX, CSV, imágenes), para un reto
+propuesto por Merlin Software.
 
-### 📁 Proyectos Destacados
+**[MiCita](link)** — App de reservas offline-first para barberías y salones.
 
-- **Foodie:** SaaS Multitenant para el sector restauración con gestión de pedidos e inventario en tiempo real.
-- **MiCita:** CRM y plataforma de gestión de citas "offline-first" con sincronización inteligente.
-- **Miga:** App de gestión para repostería con integración de **IA (Gemini API)** para OCR y suscripciones premium con **RevenueCat**.
-- **MeigaSearch (HackUDC 2026):** Motor de búsqueda inteligente para documentos corporativos utilizando modelos de lenguaje (IA).
+## Stack
+Python · TypeScript · APIs de LLMs · RAG / embeddings · FastAPI · Node.js ·
+React Native · Next.js · Supabase / PostgreSQL · Docker
+
+## Además
+Miembro de Auria, el equipo de Formula Student de la UVigo que construye un coche autónomo.
 
 ---
 
