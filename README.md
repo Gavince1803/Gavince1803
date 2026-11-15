@@ -10,7 +10,7 @@ como no confiable.
 
 ## Proyectos
 
-**[Miga](link)** — App de gestión para reposteros y pastelerías en LATAM.
+**[Miga]([link](https://www.migarepostera.com/))** — App de gestión para reposteros y pastelerías en LATAM.
 En producción con usuarios de pago en más de 9 países (suscripciones con RevenueCat).
 Usa Gemini para convertir fotos de recetas escritas a mano en datos estructurados.
 `React Native` `Supabase` `Gemini API`
@@ -25,7 +25,7 @@ Avisa a los cajeros por Telegram. En pruebas en una tienda real.
 documentos corporativos dispersos (PDF, Word, PPTX, CSV, imágenes), para un reto
 propuesto por Merlin Software.
 
-**[MiCita](link)** — App de reservas offline-first para barberías y salones.
+**[MiCita]([link](https://micita.dev/))** — App de reservas offline-first para barberías y salones.
 
 ## Stack
 Python · TypeScript · APIs de LLMs · RAG / embeddings · FastAPI · Node.js ·
